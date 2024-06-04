@@ -46,7 +46,7 @@ To install the necessary packages, follow these steps:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/syedhadi209/job_search_backend.git)
    cd your-repo-name
    ```
 
